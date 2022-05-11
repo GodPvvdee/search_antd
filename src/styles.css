@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#container {
+  margin: 24px;
+}
+
+.version {
+  margin-bottom: 24px;
+}
